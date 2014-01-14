@@ -8,6 +8,8 @@ public void arrancar(){
 
 	int val=0;
 	
+	int val2=3;
+	
 
 	
 }
